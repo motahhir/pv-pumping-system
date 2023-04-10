@@ -1,4 +1,4 @@
-This folder contains the Simulink model of Kalman based MPPT to optimize PV energy for pumpimg system
+This folder contains the Simulink model of Kalman based MPPT to optimize PV energy for pumping system
 
 
 
